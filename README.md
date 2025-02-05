@@ -1,1 +1,1 @@
-This repository is for my first git assignment.
+This project is an exercise in mastering Git functionalities.
